@@ -1,14 +1,56 @@
-<h1 align="center">Hi 👋, I'm Marco Picanço</h1>
-<h3 align="center">Software Developer</h3>
+### Hello World 🌎
+# [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:marcopicanco.dev@gmail.com)](mailto:marcopicanco.dev@gmail.com) [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/marcopicanco/)](https://www.linkedin.com/in/marcopicanco/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/marcopicanco-dev/)](https://github.com/marcopicanco-dev/) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber)](https://www.youtube.com/channel/UCGCukqIOltoxBPJ8yP0psbA) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/marcopicanco)](https://www.instagram.com/marcopicanco) ![](https://komarev.com/ghpvc/?username=marcopicanco-dev)
 
-- 📫 How to reach me **marcopicanco@live.com**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Sofwt">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcopicanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcopicanco" height="30" width="40" /></a>
+👩‍💻 About me
+
+<p align="left"> 
+Hi, my name is Marco Picanço! I'm passionate about sharing knowledge and solving real-world problems through technology. For me, tech is a powerful tool to create meaningful solutions. My main stack is Ruby with the Ruby on Rails framework, and I've been actively working on projects that reflect this expertise. I also dedicate time to sharing insights and code on my GitHub, always looking to improve and explore topics like software architecture, clean code, and productivity in development. <br> <br>
+
+💻 Software Engineer at [OrçaFascio](https://www.orcafascio.com/)<br>
+📚 Studying Rails Framework, Data Struture, API, Monolith, Microservices, Testes and Documentation.<br>
+🇺🇸 I'am studying English and I speak a little French 🇫🇷 (_Si vous parlez aussi français, nous pouvons discuter un petit peu._) <br>
+👨‍💻 Graduated in Computer Science at [Anhengeura Educacional](https://www.anhaguera.com/)<br>
+🚀 +2 years of experience
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<h2>
+<p align="center">🛠️ Tech Stack</p>
+</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcopicanco-dev&show_icons=true&locale=en&layout=compact" alt="marcopicanco-dev" /></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ruby-CC0000?style=flat&logoColor=white&logo=ruby" height="28">
+  <img src="https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python" height="28">
+  <img src="https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript" height="28">
+  <br>
+  <img src="https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5" height="28">
+  <img src="https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3" height="28">
+  <br>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="28">
+  <br>
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)" height="28">
+  <br>
+  <img src="https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker" height="28">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/INSOMNIA-INSOMNIA-brightgreen" height="28">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/Debian-12%20Bookworm-red?style=flat-square&logo=debian&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" height="28">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)" height="28">
+</p>
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcopicanco-dev&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcopicanco-dev&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
