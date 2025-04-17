@@ -21,28 +21,28 @@ Hi, my name is Marco Picanço! I'm passionate about sharing knowledge and solvin
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Ruby-CC0000?style=flat&logoColor=white&logo=ruby" height="28">
-  <img src="https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python" height="28">
-  <img src="https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript" height="28">
+  <img src="https://img.shields.io/badge/-Ruby-CC0000?style=flat&logoColor=white&logo=ruby" height="18">
+  <img src="https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python" height="18">
+  <img src="https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript" height="18">
   <br>
-  <img src="https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5" height="28">
-  <img src="https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3" height="28">
+  <img src="https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5" height="18">
+  <img src="https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3" height="18">
   <br>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="28">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white" height="18">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="18">
   <br>
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)" height="28">
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="18">
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" height="18">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="18">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)" height="18">
   <br>
-  <img src="https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker" height="28">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/INSOMNIA-INSOMNIA-brightgreen" height="28">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
-  <img src="https://img.shields.io/badge/Debian-12%20Bookworm-red?style=flat-square&logo=debian&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" height="28">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)" height="28">
+  <img src="https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker" height="18">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="18">
+  <img src="https://img.shields.io/badge/INSOMNIA-INSOMNIA-brightgreen" height="18">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="18">
+  <img src="https://img.shields.io/badge/Debian-12%20Bookworm-red?style=flat-square&logo=debian&logoColor=white" height="18">
+  <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" height="18">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)" height="18">
 </p>
 
 
