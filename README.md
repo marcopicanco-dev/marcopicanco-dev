@@ -6,13 +6,13 @@
 👩‍💻 About me
 
 <p align="left"> 
-Hi, my name is Marco Picanço! I'm passionate about sharing knowledge and solving real-world problems through technology. For me, tech is a powerful tool to create meaningful solutions. My main stack is Ruby with the Ruby on Rails framework, and I've been actively working on projects that reflect this expertise. I also dedicate time to sharing insights and code on my GitHub, always looking to improve and explore topics like software architecture, clean code, and productivity in development. <br> <br>
+Hi, my name is Marco Picanço! I am passionate about sharing knowledge and solving real-world problems through technology. For me, tech is a powerful tool to create meaningful solutions. My main stack is Ruby with the Ruby on Rails framework, and I've been actively working on projects that reflect this expertise. I also dedicate time to sharing insights and code on my GitHub, always looking to improve and explore topics like software architecture, clean code, and productivity in development. <br> <br>
 
 💻 Software Engineer at [OrçaFascio](https://www.orcafascio.com/)<br>
-📚 Studying Rails Framework, Data Struture, API, Monolith, Microservices, Testes and Documentation.<br>
+📚 Studying Rails Framework, Data Structure, API, Monolith, Microservices, Tests and Documentation.<br>
 🇺🇸 I'am studying English and I speak a little French 🇫🇷 (_Si vous parlez aussi français, nous pouvons discuter un petit peu._) <br>
-👨‍💻 Graduated in Computer Science at [Anhengeura Educacional](https://www.anhaguera.com/)<br>
-🚀 +2 years of experience
+👨‍💻 Graduated in Computer Science at [Anhanguera Educacional](https://www.anhaguera.com/)<br>
+🚀 +3 years of experience
 </p>
 
 <h2>
