@@ -1,56 +1,55 @@
-### Hello World 🌎
-# [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:marcopicanco.dev@gmail.com)](mailto:marcopicanco.dev@gmail.com) [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/marcopicanco/)](https://www.linkedin.com/in/marcopicanco/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/marcopicanco-dev/)](https://github.com/marcopicanco-dev/) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber)](https://www.youtube.com/channel/UCGCukqIOltoxBPJ8yP0psbA) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/marcopicanco)](https://www.instagram.com/marcopicanco) ![](https://komarev.com/ghpvc/?username=marcopicanco-dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Marco Picanço. Clareza na ideia. Precisão na entrega. Desenvolvimento Full Stack com Ruby on Rails, APIs e integrações." src="assets/header-light.svg" width="100%">
+</picture>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Sofwt">
+# Marco Picanço
 
-👩‍💻 About me
+**Desenvolvedor Full Stack · Ruby on Rails**
 
-<p align="left"> 
-Hi, my name is Marco Picanço! I am passionate about sharing knowledge and solving real-world problems through technology. For me, tech is a powerful tool to create meaningful solutions. My main stack is Ruby with the Ruby on Rails framework, and I've been actively working on projects that reflect this expertise. I also dedicate time to sharing insights and code on my GitHub, always looking to improve and explore topics like software architecture, clean code, and productivity in development. <br> <br>
+Desenvolvo aplicações web, APIs e integrações com atenção às regras de negócio,
+aos testes e à manutenção. Na **OrçaFascio**, atuo na sustentação e evolução do
+backoffice, conectando necessidades da operação a soluções em software.
 
-💻 Software Engineer at [OrçaFascio](https://www.orcafascio.com/)<br>
-📚 Studying Rails Framework, Data Structure, API, Monolith, Microservices, Tests and Documentation.<br>
-🇺🇸 I'am studying English and I speak a little French 🇫🇷 (_Si vous parlez aussi français, nous pouvons discuter un petit peu._) <br>
-👨‍💻 Graduated in Computer Science at [Anhanguera Educacional](https://www.anhaguera.com/)<br>
-🚀 +3 years of experience
-</p>
+Minha trajetória passou por vendas, sucesso do cliente e QA antes do
+desenvolvimento. Essa experiência me ajuda a entender o problema, conversar com
+quem usa o sistema e construir com contexto.
 
-<h2>
-<p align="center">🛠️ Tech Stack</p>
-</h2>
+[Site e portfólio](https://www.marcopicanco.com) ·
+[LinkedIn](https://www.linkedin.com/in/marcopicanco/) ·
+[Contato por e-mail](mailto:marcopicanco.dev@gmail.com)
 
+## Projetos selecionados
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Ruby-CC0000?style=flat&logoColor=white&logo=ruby" height="18">
-  <img src="https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python" height="18">
-  <img src="https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript" height="18">
-  <br>
-  <img src="https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5" height="18">
-  <img src="https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3" height="18">
-  <br>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white" height="18">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="18">
-  <br>
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="18">
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" height="18">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="18">
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)" height="18">
-  <br>
-  <img src="https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker" height="18">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="18">
-  <img src="https://img.shields.io/badge/INSOMNIA-INSOMNIA-brightgreen" height="18">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="18">
-  <img src="https://img.shields.io/badge/Debian-12%20Bookworm-red?style=flat-square&logo=debian&logoColor=white" height="18">
-  <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" height="18">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)" height="18">
-</p>
+### [HexaAlerts](https://github.com/marcopicanco-dev/hexa_alerts)
 
+Aplicação de portfólio para acompanhar partidas e eventos de futebol. Reúne
+integração com APIs, processamento em segundo plano e atualizações na interface
+com Hotwire.
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcopicanco-dev&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcopicanco-dev&show_icons=true&count_private=true" /></td>
-    </tr>   
-  </table>
-</center>
+**Ruby on Rails · PostgreSQL · Redis · Sidekiq · Hotwire**
+
+### [Site e blog pessoal](https://github.com/marcopicanco-dev/marcopicanco-dev.github.io)
+
+Meu espaço para apresentar serviços, registrar decisões técnicas e compartilhar
+aprendizados. Site estático com conteúdo em MDX, identidade modernista e
+verificações automatizadas no fluxo de publicação.
+
+**Astro · TypeScript · MDX · GitHub Actions · GitHub Pages · Cloudflare**
+
+## Ferramentas e práticas
+
+- **Desenvolvimento:** Ruby, Ruby on Rails, JavaScript e SQL.
+- **Dados e integrações:** PostgreSQL, MongoDB, APIs REST e webhooks.
+- **Qualidade e ambiente:** testes com RSpec e Minitest, Git, Docker e Linux.
+
+## Formação e interesses
+
+Formação em Ciência da Computação, pós-graduação em Engenharia de Software e MBA
+em Big Data. Tenho interesse em matemática, história e cultura, e gosto de
+transformar o que aprendo em projetos e documentação.
+
+---
+
+**Visão de negócio. Cuidado com o código.**
