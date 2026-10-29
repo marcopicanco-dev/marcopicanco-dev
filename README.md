@@ -30,6 +30,14 @@ com Hotwire.
 
 **Ruby on Rails · PostgreSQL · Redis · Sidekiq · Hotwire**
 
+### [Brasil Eleitoral](https://github.com/marcopicanco-dev/brasil-eleitoral)
+
+Dashboard dos presidentes que governaram o país desde a redemocratização, em
+1985. Reúne resultados eleitorais do TSE, inflação do IBGE e comparação entre
+governos, com cada número rastreável até a fonte oficial.
+
+**Ruby on Rails · PostgreSQL · Tailwind CSS · Hotwire · Docker**
+
 ### [Site e blog pessoal](https://github.com/marcopicanco-dev/marcopicanco-dev.github.io)
 
 Meu espaço para apresentar serviços, registrar decisões técnicas e compartilhar
